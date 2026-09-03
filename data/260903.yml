@@ -1,0 +1,57 @@
+about:
+  description: Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
+  license: MIT
+  homepage: 
+  head: 234ba01
+  archived: false
+  latestVersion: v1.3.0-rc.8
+  collectedAt: 2026-09-03T02:50:36Z
+timeline:
+  created: 2026-01-04
+  lastCommit: 2026-08-26
+  lastRelease: 2026-04-28
+popularity:
+  star: 2253
+  watcher: 8
+  fork: 71
+  release: 21
+  contributor: 9
+  pullRequest: 38
+  issue: 71
+language:
+  Rust: 578963
+  Dockerfile: 960
+totalLine: 579923
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 1
+    openPR: 3
+    closedIssue: 1
+    openIssue: 0
+    commit: 1
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 1
+    openPR: 3
+    closedIssue: 1
+    openIssue: 0
+    commit: 1
+  last180d:
+    since: 2026-03-07
+    release: 1
+    mergedPR: 9
+    openPR: 4
+    closedIssue: 6
+    openIssue: 6
+    commit: 24
+  last360d:
+    since: 2025-09-08
+    release: 21
+    mergedPR: 62
+    openPR: 4
+    closedIssue: 60
+    openIssue: 11
+    commit: 177
