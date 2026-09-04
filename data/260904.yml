@@ -7,7 +7,7 @@ about:
   head: 234ba01
   archived: false
   latestVersion: v1.3.0-rc.8
-  collectedAt: 2026-09-04T19:19:33Z
+  collectedAt: 2026-09-04T21:13:15Z
 timeline:
   created: 2026-01-04
   lastCommit: 2026-08-26
@@ -81,5 +81,38 @@ total:
   openIssue: 12
   commit: 249
 ---
+path: /home/runner/.x-repo/github.com/huseyinbabal/taws
+collectedAt: 2026-09-04T21:13:15Z
+loc:
+  Rust:
+    code: 13330
+    comments: 864
+    blanks: 1933
+    files: 39
+  Json:
+    code: 2721
+    comments: 0
+    blanks: 3
+    files: 33
+  Toml:
+    code: 44
+    comments: 9
+    blanks: 10
+    files: 1
+  Dockerfile:
+    code: 19
+    comments: 11
+    blanks: 12
+    files: 1
+  Markdown:
+    code: 0
+    comments: 436
+    blanks: 174
+    files: 2
+total:
+  code: 16247
+  comments: 2038
+  blanks: 2210
+  files: 76
 ---
 
