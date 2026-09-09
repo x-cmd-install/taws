@@ -1,0 +1,121 @@
+about:
+  description: "Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager"
+  license: MIT
+  homepage: 
+  head: 234ba01
+  archived: false
+  latestVersion: "v1.3.0-rc.8"
+  latestRelease: "v1.3.0-rc.8"
+  latestPrerelease: ""
+  collectedAt: 2026-09-09T06:07:19Z
+timeline:
+  created: 2026-01-04
+  lastCommit: 2026-08-26
+  lastVersion: 2026-04-28
+  lastRelease: 2026-04-28
+  lastPrerelease: 
+popularity:
+  star: 2257
+  watcher: 8
+  fork: 72
+  release: 21
+  contributor: 9
+  pullRequest: 101
+  issue: 72
+language:
+  Rust: 578963
+  Dockerfile: 960
+totalBytes: 579923
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 0
+    mergedPR: 1
+    openPR: 4
+    closedIssue: 1
+    openIssue: 1
+    commit: 1
+  last60d:
+    since: 2026-07-11
+    release: 0
+    mergedPR: 1
+    openPR: 4
+    closedIssue: 1
+    openIssue: 1
+    commit: 1
+  last90d:
+    since: 2026-06-11
+    release: 0
+    mergedPR: 1
+    openPR: 4
+    closedIssue: 1
+    openIssue: 1
+    commit: 1
+  last180d:
+    since: 2026-03-13
+    release: 1
+    mergedPR: 9
+    openPR: 5
+    closedIssue: 6
+    openIssue: 7
+    commit: 22
+  last360d:
+    since: 2025-09-14
+    release: 21
+    mergedPR: 62
+    openPR: 5
+    closedIssue: 60
+    openIssue: 12
+    commit: 177
+  last720d:
+    since: 2024-09-19
+    release: 21
+    mergedPR: 62
+    openPR: 5
+    closedIssue: 60
+    openIssue: 12
+    commit: 249
+total:
+  release: 21
+  mergedPR: 62
+  openPR: 5
+  closedIssue: 60
+  openIssue: 12
+  commit: 249
+---
+path: /home/runner/.x-repo/github.com/huseyinbabal/taws
+collectedAt: 2026-09-09T06:07:20Z
+loc:
+  Rust:
+    code: 13330
+    comments: 864
+    blanks: 1933
+    files: 39
+  Json:
+    code: 2721
+    comments: 0
+    blanks: 3
+    files: 33
+  Toml:
+    code: 44
+    comments: 9
+    blanks: 10
+    files: 1
+  Dockerfile:
+    code: 19
+    comments: 11
+    blanks: 12
+    files: 1
+  Markdown:
+    code: 0
+    comments: 436
+    blanks: 174
+    files: 2
+total:
+  code: 16247
+  comments: 2038
+  blanks: 2210
+  files: 76
+---
+
+---
