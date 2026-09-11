@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.3.0-rc.8"
   latestRelease: "v1.3.0-rc.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:07:22Z
+  collectedAt: 2026-09-11T06:11:19Z
 timeline:
   created: 2026-01-04
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-28
   lastPrerelease: 
 popularity:
-  star: 2257
+  star: 2258
   watcher: 8
   fork: 73
   release: 21
@@ -84,7 +84,7 @@ total:
   commit: 260
 ---
 path: /home/runner/.x-repo/github.com/huseyinbabal/taws
-collectedAt: 2026-09-11T00:07:23Z
+collectedAt: 2026-09-11T06:11:20Z
 loc:
   Rust:
     code: 13381
