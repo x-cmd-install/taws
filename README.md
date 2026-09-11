@@ -37,7 +37,7 @@ Total: **16,165** lines of code across **76** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,257 · **Forks**: 73 · **Open issues**: 72 · **Contributors**: 12
+- **Stars**: 2,258 · **Forks**: 73 · **Open issues**: 72 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -82,4 +82,4 @@ Install metadata for taws lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:07:32Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:11:26Z._
