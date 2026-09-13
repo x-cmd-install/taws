@@ -37,22 +37,22 @@ Total: **16,165** lines of code across **76** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,259 · **Forks**: 73 · **Open issues**: 72 · **Contributors**: 12
+- **Stars**: 2,260 · **Forks**: 73 · **Open issues**: 72 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 65 · **Open PRs**: 2 · **Closed issues**: 63 · **Open issues**: 9 · **Commits**: 260
+- **Releases**: 21 · **Merged PRs**: 65 · **Open PRs**: 4 · **Closed issues**: 63 · **Open issues**: 9 · **Commits**: 260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 4 | 1 | 1 | 1 | 9 |
-| last60d | 2026-07-14 | 0 | 4 | 1 | 1 | 1 | 9 |
-| 90d | 2026-06-14 | 0 | 4 | 1 | 1 | 1 | 9 |
-| last180d | 2026-03-16 | 1 | 11 | 2 | 8 | 4 | 30 |
-| 360d | 2025-09-17 | 21 | 65 | 2 | 63 | 9 | 185 |
-| last720d | 2024-09-22 | 21 | 65 | 2 | 63 | 9 | 260 |
+| 30d | 2026-08-14 | 0 | 4 | 3 | 1 | 1 | 9 |
+| last60d | 2026-07-15 | 0 | 4 | 3 | 1 | 1 | 9 |
+| 90d | 2026-06-15 | 0 | 4 | 3 | 1 | 1 | 9 |
+| last180d | 2026-03-17 | 1 | 11 | 4 | 8 | 4 | 30 |
+| 360d | 2025-09-18 | 21 | 65 | 4 | 63 | 9 | 185 |
+| last720d | 2024-09-23 | 21 | 65 | 4 | 63 | 9 | 260 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for taws lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:55:04Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:15:30Z._
