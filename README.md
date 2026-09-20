@@ -4,7 +4,7 @@
 
 Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager
 
-![taws](https://repo.x-cmd.io/taws.svg)
+[![x-cmd/install — taws Code Quality Monitoring Repo Card](https://repo.x-cmd.io/taws.svg)](https://x-cmd.com/install/taws)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **16,165** lines of code across **76** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,260 · **Forks**: 73 · **Open issues**: 72 · **Contributors**: 12
+- **Stars**: 2,261 · **Forks**: 73 · **Open issues**: 72 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **16,165** lines of code across **76** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 3 | 1 | 1 | 9 |
-| last60d | 2026-07-20 | 0 | 4 | 3 | 1 | 1 | 9 |
-| 90d | 2026-06-20 | 0 | 4 | 3 | 1 | 1 | 9 |
-| last180d | 2026-03-22 | 1 | 11 | 4 | 8 | 4 | 30 |
-| 360d | 2025-09-23 | 21 | 65 | 4 | 63 | 9 | 185 |
-| last720d | 2024-09-28 | 21 | 65 | 4 | 63 | 9 | 260 |
+| 30d | 2026-08-21 | 0 | 4 | 3 | 1 | 1 | 5 |
+| last60d | 2026-07-22 | 0 | 4 | 3 | 1 | 1 | 9 |
+| 90d | 2026-06-22 | 0 | 4 | 3 | 1 | 1 | 9 |
+| last180d | 2026-03-24 | 1 | 11 | 4 | 8 | 4 | 27 |
+| 360d | 2025-09-25 | 21 | 65 | 4 | 63 | 9 | 185 |
+| last720d | 2024-09-30 | 21 | 65 | 4 | 63 | 9 | 260 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for taws lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:34:36Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:19:35Z._
