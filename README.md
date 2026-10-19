@@ -47,12 +47,12 @@ Total: **16,165** lines of code across **76** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last60d | 2026-08-19 | 0 | 4 | 3 | 1 | 3 | 8 |
-| 90d | 2026-07-20 | 0 | 4 | 3 | 1 | 3 | 9 |
-| last180d | 2026-04-21 | 1 | 8 | 3 | 5 | 4 | 23 |
-| 360d | 2025-10-23 | 21 | 65 | 4 | 63 | 11 | 185 |
-| last720d | 2024-10-28 | 21 | 65 | 4 | 63 | 11 | 260 |
+| 30d | 2026-09-19 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-08-20 | 0 | 4 | 3 | 1 | 3 | 8 |
+| 90d | 2026-07-21 | 0 | 4 | 3 | 1 | 3 | 9 |
+| last180d | 2026-04-22 | 1 | 8 | 3 | 5 | 4 | 23 |
+| 360d | 2025-10-24 | 21 | 65 | 4 | 63 | 11 | 185 |
+| last720d | 2024-10-29 | 21 | 65 | 4 | 63 | 11 | 260 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for taws lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:30:48Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:41:40Z._
