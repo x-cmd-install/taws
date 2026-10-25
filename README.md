@@ -37,7 +37,7 @@ Total: **16,165** lines of code across **76** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,263 · **Forks**: 71 · **Open issues**: 74 · **Contributors**: 12
+- **Stars**: 2,264 · **Forks**: 71 · **Open issues**: 74 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **16,165** lines of code across **76** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-08-25 | 0 | 3 | 2 | 0 | 3 | 0 |
-| 90d | 2026-07-26 | 0 | 4 | 2 | 1 | 3 | 0 |
-| last180d | 2026-04-27 | 1 | 7 | 2 | 3 | 4 | 0 |
-| 360d | 2025-10-29 | 21 | 65 | 3 | 63 | 11 | 0 |
-| last720d | 2024-11-03 | 21 | 65 | 3 | 63 | 11 | 260 |
+| 30d | 2026-09-25 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-08-26 | 0 | 2 | 2 | 0 | 3 | 3 |
+| 90d | 2026-07-27 | 0 | 4 | 2 | 1 | 3 | 9 |
+| last180d | 2026-04-28 | 1 | 7 | 2 | 3 | 4 | 12 |
+| 360d | 2025-10-30 | 21 | 65 | 3 | 63 | 11 | 185 |
+| last720d | 2024-11-04 | 21 | 65 | 3 | 63 | 11 | 260 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for taws lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:44:00Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:47:56Z._
