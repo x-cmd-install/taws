@@ -47,12 +47,12 @@ Total: **16,165** lines of code across **76** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 1 | 0 | 3 | 0 |
-| 90d | 2026-08-29 | 0 | 2 | 2 | 0 | 4 | 3 |
-| last180d | 2026-05-31 | 0 | 4 | 2 | 1 | 4 | 10 |
-| 360d | 2025-12-02 | 21 | 65 | 3 | 63 | 12 | 185 |
-| last720d | 2024-12-07 | 21 | 65 | 3 | 63 | 12 | 260 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 1 | 0 | 3 | 0 |
+| 90d | 2026-08-30 | 0 | 2 | 2 | 0 | 4 | 3 |
+| last180d | 2026-06-01 | 0 | 4 | 2 | 1 | 4 | 10 |
+| 360d | 2025-12-03 | 21 | 65 | 3 | 63 | 12 | 185 |
+| last720d | 2024-12-08 | 21 | 65 | 3 | 63 | 12 | 260 |
 
 ## Release assets
 
@@ -65,6 +65,14 @@ Total: **16,165** lines of code across **76** files in the top 5 languages.
 | [taws-x86_64-pc-windows-msvc.zip](https://github.com/huseyinbabal/taws/releases/download/v1.3.0-rc.8/taws-x86_64-pc-windows-msvc.zip) | 3.0 MiB | `native/win/x64` |
 | [taws-x86_64-unknown-linux-musl.tar.gz](https://github.com/huseyinbabal/taws/releases/download/v1.3.0-rc.8/taws-x86_64-unknown-linux-musl.tar.gz) | 3.7 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/taws). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.2.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for taws lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `taws` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -74,4 +82,4 @@ Install metadata for taws lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:31:52Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:50:25Z._
